@@ -1,3 +1,3 @@
-# Demo 2
+# Demo2
 
 Some text i like
